@@ -255,8 +255,10 @@ class TicTacToe:
 #just try
 
 if __name__=="__main__":
-    game1=TicTacToe()
-    game1.play_game()
+    game2=TicTacToe()
+    game2.play_game()
+
+#edited this file again. 
 
 
 
