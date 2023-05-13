@@ -251,7 +251,7 @@ class TicTacToe:
                 else:
                     print("Invalid input.")
 
-    
+
 #just try
 
 if __name__=="__main__":
