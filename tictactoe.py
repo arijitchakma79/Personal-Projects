@@ -255,8 +255,8 @@ class TicTacToe:
 #just try
 
 if __name__=="__main__":
-    game=TicTacToe()
-    game.play_game()
+    game1=TicTacToe()
+    game1.play_game()
 
 
 
